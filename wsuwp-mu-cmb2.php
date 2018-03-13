@@ -2,7 +2,7 @@
 /*
 Plugin Name: WSU MU CMB2 Loader
 Plugin URI: https://github.com/washingtonstateuniversity/WSUWP-Plugin-MU-CMB2
-Description: Provides a method to include an initialize CMB2 as required.
+Description: Provides a method to include and initialize CMB2 as required.
 Author: washingtonstateuniversity
 Author URI: https://web.wsu.edu
 Version: 0.0.1
